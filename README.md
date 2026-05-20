@@ -147,7 +147,3 @@ To avoid showing users empty dashboards, the recommendation system relies on a d
 3.  **Data Sanitization:** `express-mongo-sanitize` is implemented to prevent NoSQL query injection attacks.
 
 ---
-
-## 📝 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
